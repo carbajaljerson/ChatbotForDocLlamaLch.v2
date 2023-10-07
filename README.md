@@ -47,15 +47,12 @@ pip install -r requirements.txt
 Modelo cuantizado:
 
 ```bash
-wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q4_0.bin
-```
-
-
-```bash
 GIT_LFS_SKIP_SMUDGE=1
+
+wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q4_0.bin
+
 git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 
-wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q4_0.bin
 ```
 
 
