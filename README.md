@@ -30,7 +30,7 @@ Siga estos pasos para configurar y ejecutar el proyecto localmente:
 ### Instalación
 Clonar el repositorio :
 ```bash
-git clone https://github.com/carbajaljerson/ChatbotForDocLlamaLch.git
+git clone https://github.com/carbajaljerson/ChatbotForDocLlamaLch.v2.git
 ```
 
 Crear el entorno virtual :
